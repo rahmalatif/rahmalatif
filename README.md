@@ -1,6 +1,6 @@
 # Hi, I'm Rahma Ahmed 👋
 
-### Flutter Developer | Android Developer
+### Flutter Developer 
 
 I'm a Computer Science graduate from Egypt, passionate about building modern and user-friendly mobile applications.
 
@@ -11,7 +11,6 @@ I specialize in Flutter, Dart, Firebase, REST APIs, and native Android developme
 ## 🚀 What I Do
 
 - 📱 Flutter Mobile Development
-- 🤖 Native Android Development
 - 🔥 Firebase Integration
 - 🌐 REST API Integration
 - 🏗️ Clean Architecture
@@ -26,8 +25,7 @@ I specialize in Flutter, Dart, Firebase, REST APIs, and native Android developme
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
 
 ### Backend & Services
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
