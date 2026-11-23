@@ -40,6 +40,15 @@ I specialize in Flutter, Dart, Firebase, REST APIs, and native Android developme
 
 ## 📱 Featured Projects
 
+### 📱 Fakarny (فكرني) - Live on Google Play
+
+Tasks and reminders app for students and everyday plans. Create tasks with date and time, organize them by category and priority, see reminders in a calendar, add birthday reminders, and switch between Arabic and English with light and dark modes.
+
+**Tech:** Flutter, Firebase
+**My role:** Designed, built and published the app solo.
+
+[Get it on Google Play](https://play.google.com/store/apps/details?id=com.fakarny.app)
+
 ### 🎓 GPIR — Graduation Project Ideas Recommender
 
 A Flutter application that recommends graduation project ideas using AI similarity analysis.
