@@ -79,25 +79,13 @@ A native Android application for tracking daily habits and monitoring progress.
 
 ---
 
-### 🧠 Fakkny — Smart Reminder App
-
-An intelligent reminder application currently under development.
-
-**Tech:** Flutter · Firebase · AI · Notifications
-
-🚧 Currently in Development
-
-🔗 [View Repository](https://github.com/rahmalatif/fakrny)
-
----
-
 ## 🎯 Currently
 
-🔭 Working on **Fakkny — Smart Reminder App**
 
-🌱 Improving my Flutter & Android development skills
 
-💼 Open to **Freelance & Remote Opportunities**
+🌱 Improving my Flutter development skills
+
+💼 Open to **Freelance , Remote $ Job Opportunities**
 
 ---
 
